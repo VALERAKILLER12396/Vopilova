@@ -3,4 +3,6 @@ b = 2;
 c = 3;
 ab = a * b;
 ac = a * c;
-Console.WriteLine(ab)
+i = ab * ac;
+s = i + a;
+Console.WriteLine(s)
